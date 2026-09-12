@@ -1,0 +1,6 @@
+Incident_ID,Person_ID,Vehicle_ID,Vehicle_Type,Distance,Risk_Level,Confidence,Video_Time,Evidence_File
+PEDESTRIAN_7_11_180,7,11,Car,137.0,MEDIUM,0.54,00:06.01,/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/pedestrian_risk/evidence/pedestrian_risk_P7_V11_180.jpg
+PEDESTRIAN_7_12_200,7,12,Car,129.4,MEDIUM,0.73,00:06.67,/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/pedestrian_risk/evidence/pedestrian_risk_P7_V12_200.jpg
+PEDESTRIAN_14_12_274,14,12,Car,129.28,MEDIUM,0.27,00:09.14,/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/pedestrian_risk/evidence/pedestrian_risk_P14_V12_274.jpg
+PEDESTRIAN_14_15_332,14,15,Car,108.41,MEDIUM,0.29,00:11.08,/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/pedestrian_risk/evidence/pedestrian_risk_P14_V15_332.jpg
+PEDESTRIAN_24_26_508,24,26,Truck,139.01,MEDIUM,0.27,00:16.95,/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/pedestrian_risk/evidence/pedestrian_risk_P24_V26_508.jpg

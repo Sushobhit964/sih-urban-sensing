@@ -1,0 +1,2 @@
+Vehicle_ID,Vehicle_Type,License_Plate,OCR_Confidence,Video_Time,Evidence
+4,Car,83458L0,0.21,0.17,output/vehicle_registry/evidence/vehicle_4_83458L0_1789075667777.jpg

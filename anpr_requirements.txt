@@ -1,0 +1,5 @@
+easyocr
+ultralytics
+opencv-python
+numpy
+folium

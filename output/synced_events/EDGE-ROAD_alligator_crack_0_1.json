@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-ROAD_alligator_crack_0_1",
+    "incident_id": "ROAD_alligator_crack_0_1",
+    "incident_type": "ROAD_DAMAGE",
+    "object_id": "0",
+    "object_type": "alligator_crack",
+    "severity": "HIGH",
+    "confidence": "0.57",
+    "video_time": "00:00.04",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/road_damage/evidence/alligator_crack_0_1.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 2,
+    "synced_at": "2026-09-12 19:18:51"
+}

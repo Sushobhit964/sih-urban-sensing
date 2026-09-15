@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-WATER_126",
+    "incident_id": "WATER_126",
+    "incident_type": "WATERLOGGING",
+    "object_id": "ROAD_ZONE",
+    "object_type": "Water",
+    "severity": "HIGH",
+    "confidence": "0.69",
+    "video_time": "00:05.04",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/waterlogging/evidence/waterlogging_126.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 2,
+    "synced_at": "2026-09-12 19:18:50"
+}

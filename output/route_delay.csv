@@ -1,0 +1,2 @@
+Route_ID,Baseline_Time_Min,Estimated_Delay_Min,Estimated_Travel_Time_Min,Delay_Percentage,Average_Vehicles,Low_Observations,Medium_Observations,High_Observations,Dominant_Congestion,Route_Status
+MONITORED_CORRIDOR,30,1.4,31.4,4.7,5.1,468,189,0,LOW,SLIGHT DELAY

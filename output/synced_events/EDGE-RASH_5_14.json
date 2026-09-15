@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-RASH_5_14",
+    "incident_id": "RASH_5_14",
+    "incident_type": "RASH_DRIVING",
+    "object_id": "5",
+    "object_type": "Car",
+    "severity": "HIGH",
+    "confidence": "0.79",
+    "video_time": "00:00.47",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/violations/rash_vehicle_5_14.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 2,
+    "synced_at": "2026-09-12 19:18:50"
+}

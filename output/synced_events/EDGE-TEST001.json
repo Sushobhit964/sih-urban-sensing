@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-TEST001",
+    "incident_id": "TEST001",
+    "incident_type": "POTHOLE",
+    "object_id": "1",
+    "object_type": "Road",
+    "severity": "HIGH",
+    "confidence": "0.95",
+    "video_time": "00:01.00",
+    "latitude": "23.83",
+    "longitude": "80.39",
+    "evidence": "test.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 2,
+    "synced_at": "2026-09-12 19:18:50"
+}

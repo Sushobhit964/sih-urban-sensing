@@ -1,0 +1,3 @@
+Zone,Incident_Count,Road_Damage,Potholes,Pedestrian_Risk,Waterlogging,Rash_Driving,Wrong_Way,Congestion,Traffic,High_Severity,Risk_Score,Risk_Level
+23.830_80.390,1,0,1,0,0,0,0,0,0,1,100,CRITICAL
+UNMAPPED,119,60,19,5,6,27,2,0,0,64,100,CRITICAL

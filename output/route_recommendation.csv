@@ -1,0 +1,2 @@
+Route_ID,Route_Score,Condition,Recommendation,Risk_Score,Estimated_Delay_Minutes,Hotspot_Score,Maintenance_Score,Flow_Imbalance,Generated_At
+MONITORED_CORRIDOR,65.0,HIGH RISK,USE WITH CAUTION - High risk conditions detected,100.0,0,13.0,1141.0,0,2026-09-12 19:19:50

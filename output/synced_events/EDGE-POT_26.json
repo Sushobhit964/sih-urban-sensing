@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-POT_26",
+    "incident_id": "POT_26",
+    "incident_type": "POTHOLE",
+    "object_id": "26",
+    "object_type": "Road",
+    "severity": "MEDIUM",
+    "confidence": "0.873",
+    "video_time": "00:06.48",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/potholes/evidence/pothole_ID26_00_06_48.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 3,
+    "synced_at": "2026-09-12 19:18:51"
+}

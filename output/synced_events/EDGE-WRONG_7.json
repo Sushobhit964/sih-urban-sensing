@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-WRONG_7",
+    "incident_id": "WRONG_7",
+    "incident_type": "WRONG_WAY",
+    "object_id": "7",
+    "object_type": "Motorcycle",
+    "severity": "HIGH",
+    "confidence": "0.634",
+    "video_time": "00:05.04",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/violations/wrong_way_ID7_00_05_04.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 2,
+    "synced_at": "2026-09-12 19:18:51"
+}

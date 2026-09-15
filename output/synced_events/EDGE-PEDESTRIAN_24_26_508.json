@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-PEDESTRIAN_24_26_508",
+    "incident_id": "PEDESTRIAN_24_26_508",
+    "incident_type": "PEDESTRIAN_RISK",
+    "object_id": "24",
+    "object_type": "Person near Truck",
+    "severity": "MEDIUM",
+    "confidence": "0.27",
+    "video_time": "00:16.95",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/pedestrian_risk/evidence/pedestrian_risk_P24_V26_508.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 3,
+    "synced_at": "2026-09-12 19:18:52"
+}

@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-ROAD_transverse_crack_0_56",
+    "incident_id": "ROAD_transverse_crack_0_56",
+    "incident_type": "ROAD_DAMAGE",
+    "object_id": "0",
+    "object_type": "transverse_crack",
+    "severity": "MEDIUM",
+    "confidence": "0.37",
+    "video_time": "00:02.24",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/road_damage/evidence/transverse_crack_0_56.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 3,
+    "synced_at": "2026-09-12 19:18:52"
+}

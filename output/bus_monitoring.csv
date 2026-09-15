@@ -1,0 +1,2 @@
+Camera_ID,Incident_Count,High_Severity,Medium_Severity,Low_Severity,Dominant_Incident,Risk_Score,Camera_Status,Health_Level,Last_Incident
+UNKNOWN,120,65,41,14,ROAD_DAMAGE,100,ACTIVE,CRITICAL,00:16.95

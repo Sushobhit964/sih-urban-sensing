@@ -1,0 +1,1 @@
+Alert_ID,Incident_ID,Incident_Type,Object_ID,Original_Severity,Geofence_ID,Geofence_Name,Geofence_Priority,Distance_From_Zone_Center_M,Escalation_Score,Alert_Level,Confidence,Video_Time,Latitude,Longitude,Evidence,Alert_Time,Status

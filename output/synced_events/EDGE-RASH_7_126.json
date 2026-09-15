@@ -1,0 +1,18 @@
+{
+    "event_id": "EDGE-RASH_7_126",
+    "incident_id": "RASH_7_126",
+    "incident_type": "RASH_DRIVING",
+    "object_id": "7",
+    "object_type": "Motorcycle",
+    "severity": "HIGH",
+    "confidence": "0.78",
+    "video_time": "00:04.20",
+    "latitude": "N/A",
+    "longitude": "N/A",
+    "evidence": "/Users/sushobhitpatel/Desktop/sih-urban-sensing/output/violations/rash_vehicle_7_126.jpg",
+    "source": "EDGE_AI",
+    "created_at": "2026-09-12 19:18:50",
+    "sync_status": "SYNCED",
+    "priority": 2,
+    "synced_at": "2026-09-12 19:18:50"
+}

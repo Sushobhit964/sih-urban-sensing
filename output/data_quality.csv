@@ -1,0 +1,2 @@
+Analysis_ID,Analysis_Time,Total_Events,Valid_GPS_Events,Missing_GPS_Events,Missing_GPS_Ratio,Average_Confidence,Low_Confidence_Ratio,Invalid_Timestamps,Timestamp_Order_Errors,Duplicate_Events,Detection_Spike,Data_Quality_Score,Status,Anomaly_Reasons
+DQ-20260912191841,2026-09-12T19:18:41.680137,120,1,119,99.17,0.6653,15.0,120,0,61,YES,28.88,ANOMALY,HIGH_MISSING_GPS;INVALID_TIMESTAMP;DUPLICATE_EVENTS;DETECTION_SPIKE

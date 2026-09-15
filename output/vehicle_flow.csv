@@ -1,0 +1,3 @@
+Direction,Vehicle_Count,Cars,Motorcycles,Buses,Trucks,Bicycles,Flow_Share_Percent,Dominant_Direction,Directional_Imbalance_Percent
+NORTH_TO_SOUTH,0,0,0,0,0,0,0,BALANCED,0
+SOUTH_TO_NORTH,0,0,0,0,0,0,0,BALANCED,0

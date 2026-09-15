@@ -1,2 +1,1 @@
-Vehicle_ID,Vehicle_Type,License_Plate,OCR_Confidence,Video_Time,Evidence
-4,Car,83458L0,0.21,0.17,output/vehicle_registry/evidence/vehicle_4_83458L0_1789075667777.jpg
+Vehicle_ID,License_Plate,Incident_Count,High_Severity_Incidents,Rash_Driving_Count,Wrong_Way_Count,Hit_And_Run_Count,First_Seen,Last_Seen,Risk_Score,Risk_Level,Latest_Latitude,Latest_Longitude,Latest_Evidence,Registry_Status
